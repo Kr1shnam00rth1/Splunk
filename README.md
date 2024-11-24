@@ -1,2 +1,1 @@
-# Splunk
-Splunk Labs
+## Splunk
